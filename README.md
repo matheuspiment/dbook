@@ -1,4 +1,4 @@
-# Bem-vindo!
+# dbook
 
 [![license](https://img.shields.io/github/license/matheuspiment/dbook.svg?style=plastic)](https://github.com/matheuspiment/dbook/blob/master/LICENSE)
 
