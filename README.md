@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Bem-vindo
 
-You can use the [editor on GitHub](https://github.com/matheuspiment/dbook/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+O dbook é desenvolvido no contexto da disciplina de Manutenção de Software e conciste em uma aplivativo, para dispositivos móveis, que permite a troca e doação de livros entre seus usuários.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matheuspiment/dbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Com a finalidade de se praticar engenharia de software a documentação do projeto terá como **base** o nível G do modelo de Melhoria do Processo de Software Brasileiro ([MPS.Br](http://www.softex.br/mpsbr/)). O guia geral de software pode ser obtido [aqui](http://www.softex.br/wp-content/uploads/2016/04/MPS.BR_Guia_Geral_Software_2016-com-ISBN.pdf?x15632). É importante resaltar que devido a simplicidade do projeto uma documentação mais enxuta/objetiva será construída.
