@@ -295,3 +295,23 @@ em que ela é desenvolvida.
  * Documento de Comprometimento da Equipe ("dispensável")
 <strong>Ferramentas:</strong> Suite Office
 </pre>
+
+<pre>
+<strong>Atividade:</strong> Obter avaliação da mudança
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Gerente de Projeto
+ <em>Aprovação:</em> Cliente
+ <em>Colaboração:</em> Engenheiro de Requisitos 
+ <em>Informação:</em> Não se aplica
+<strong>Tarefas:</strong>
+ 1. Avaliar viabilidade e impactos das alterações no projeto como um todo
+ 2. Avaliar se a documentação está em conformidade com o que foi pedido
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Relatório de Impacto de Mudanças ("dispensável")
+ * Especificação de Requisitos
+<strong>Critérios de Saída:</strong> Aprovação ou reprovalção da mudança
+<strong>Produtos:</strong>
+ * Especificação de Requisitos (atualizada)
+<strong>Ferramentas:</strong> Suite Office, e-mail, reunião
+</pre>
