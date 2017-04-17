@@ -21,8 +21,8 @@ do respectivo superior.
 ## 4. Papéis
 
 ---
-papel: Gerente de Projeto
-formação: Essas ocupaç
+title: Assets
+permalink: /docs/assets/
 ---
 
 | Papel | Dependência |
