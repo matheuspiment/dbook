@@ -12,7 +12,6 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 ### Documentos disponíveis:
 
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/DB2017-1-TAP-1.0.md)
-* Processo de Desenvolvimento (em construção)
 * Especificação dos Requisidtos (em construção)
 * Especificação do Design (em construção)
 
