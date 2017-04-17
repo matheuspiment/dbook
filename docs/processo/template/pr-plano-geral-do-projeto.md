@@ -137,10 +137,10 @@ Definir o modelo de ciclo de vida e as fases definidos/escolhidos para o projeto
 ## 12. Aprovação
 
 <dl>
-<dd>__________________________________________________________    __________________</dd>
-    Patrocinador do Projeto - (Nome do patrocinador do projeto)          Data
+  <dt>_________________________________________________________</dt>
+  <dd>Patrocinador do Projeto - (Nome do patrocinador do projeto)</dd>
 
-
-<dd>__________________________________________________________    __________________</dd>
-    Gerente do Projeto - (Nome do gerente do projeto)                    Data
+  <dt>__________________________________________________________</dt>
+  <dd>Gerente do Projeto - (Nome do gerente do projeto)</dd>
 </dl>
+<dl>
