@@ -24,11 +24,6 @@ do respectivo superior.
 Papel: Gerente de Projeto
 Formação: Essas ocupações são exercidas por pessoas com escolaridade de ensino superior 
 na área de tecnologia da informação ou similares
-Conhecimentos: 
-* Conceitos sobre gerência de projeto
-* Processo de gerência de projeto da empresa
-Responsabilidades: Definir e manter o plano de gerência de projeto, bem como os recursos envolvidos, 
-além de estabelecer comunicação com os stakeholders
 ---
 
 | Papel | Dependência |
