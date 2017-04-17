@@ -25,7 +25,7 @@ do respectivo superior.
 informação ou similares  
 **Conhecimentos:**
 * Conceitos de gerência de projeto
-* Processo de gerência de projeto da organização  
+* Processo de gerência de projeto da organização
 **Responsabilidades:**
 * Definir e manter o plano de gerência do projeto  
 * Manter os recursos envolvidos  
