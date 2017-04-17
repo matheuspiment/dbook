@@ -21,9 +21,8 @@ do respectivo superior.
 ## 4. Papéis
 
 ---
-Papel: Gerente de Projeto
-Formação: Essas ocupações são exercidas por pessoas com escolaridade de ensino superior 
-na área de tecnologia da informação ou similares
+papel: Gerente de Projeto
+formação: Essas ocupaç
 ---
 
 | Papel | Dependência |
