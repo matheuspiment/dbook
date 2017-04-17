@@ -47,12 +47,14 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 <strong>Quando:</strong>Ao final da atividade "Planejar Projeto"
 </pre>
 
-**Comunicação:** Estabelecimento de novo projeto  
-**Emissor:** Gerente de Projeto  
-**Receptores:** Stakeholders  
-**Mensagem:** Disponibilidade e forma de acesso aos recursos para o desenvolvimento do projeto.  
-**Meio de Comunicação:** E-mail, ou de forma informal  
-**Quando:** Ao final da atividade “Avaliar Viabilidade do Projeto” no caso de viabilidade aprovada
+<pre>
+<strong>Comunicação:</strong> Estabelecimento de novo projeto  
+<strong>Emissor:</strong> Gerente de Projeto  
+<strong>Receptores:</strong> Stakeholders  
+<strong>Mensagem:</strong> Disponibilidade e forma de acesso aos recursos para o desenvolvimento do projeto.  
+<strong>Meio de Comunicação:</strong> E-mail, ou de forma informal  
+<strong>Quando:</strong>Ao final da atividade “Avaliar Viabilidade do Projeto” no caso de viabilidade aprovada
+</pre>
 
 ## 7. Macro Fluxo
 
