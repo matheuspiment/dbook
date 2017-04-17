@@ -33,9 +33,50 @@ tecnologia da informação ou similares
   * Estabelecer comunicação com os stakeholders
 </pre>
 
+---
+
+<pre>
+<strong>Papel:</strong> Cliente ou individuo que tem dóminio sobre o problema 
+<strong>Conhecimentos:</strong>
+  * Conhecer as necessidades e restrições do negócio
+<strong>Responsabilidades:</strong>
+  * Garantir clareza na transmissão das necessidades e restrições do negócio
+  * Evitar ambiguidades das informações passadas à equipe de requisitos
+</pre>
+
+<pre>
+<strong>Papel:</strong> Gerente de Requisitos
+<strong>Formação:</strong> Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de 
+tecnologia da informação ou similares  
+<strong>Conhecimentos:</strong>
+  * Conceitos sobre gerência de requisitos e controle de mudanças dos requisitos
+  * Processo de Gerência de Requisitos da organização
+<strong>Responsabilidades:</strong>
+  * Definir claramente as necessidades do negócio  
+  * Gerenciar os requisitos e suas mudanças
+  * Analisar e ou validar os requisitos
+  * Estabelecer comunicação com os stakeholders
+</pre>
+
+<pre>
+<strong>Papel:</strong> Engenheiro de Requisitos  
+<strong>Formação:</strong> Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de 
+tecnologia da informação ou similares  
+<strong>Conhecimentos:</strong>
+  * Conceitos sobre engenharia de requisitos e controle de mudanças dos requisitos
+<strong>Responsabilidades:</strong>
+  * Controle de alterações 
+  * Capacidade de identificar problemas e impactos 
+  * Elucidar os requisitos
+  * Analisar os requisitos
+</pre>
+
 ## 5. Métricas
 
-Não serão definidas métricas para indicação de atraso ou conclução, uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
+Não serão definidas métricas para *indicação de atraso ou conclução* (GPR), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
+
+Não serão definidas métricas para *indicação de rastreabilidade ou consistência/completude* (GRE), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa validação será optida e avaliada informalmente pela equipe. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
+
 
 ## 6. Comunicações
 
