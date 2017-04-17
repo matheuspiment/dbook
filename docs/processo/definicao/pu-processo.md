@@ -20,11 +20,7 @@ do respectivo superior.
 
 ## 4. Papéis
 
----
-title: Assets
-permalink: /docs/assets/
----
-
-| Papel | Dependência |
-|:---------------:|:-----------:|
+| Papel | Gerente de Projeto |
+|:-----:|                    |
+|Formação| Essss|  
 
