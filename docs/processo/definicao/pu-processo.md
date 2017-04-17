@@ -20,7 +20,8 @@ do respectivo superior.
 
 ## 4. Papéis
 
-| Papel | Gerente de Projeto |
-|:-----:|                    |
-|Formação| Essss|  
+| Papel | Formação | Responsabilidades |
+|:-----:|:--------:|:-----------------:|
+| Gerente de Projeto | * Conceitos sobre gerência de projeto  * Processo de Gerência  | F | 
+
 
