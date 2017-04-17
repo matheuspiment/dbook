@@ -138,9 +138,9 @@ Definir o modelo de ciclo de vida e as fases definidos/escolhidos para o projeto
 
 <dl>
   <dt>_________________________________________________________</dt>
-  <dd>Patrocinador do Projeto - (Nome do patrocinador do projeto)</dd>
+  <dt>Patrocinador do Projeto - (Nome do patrocinador do projeto)</dt>
 
   <dt>__________________________________________________________</dt>
-  <dd>Gerente do Projeto - (Nome do gerente do projeto)</dd>
+  <dt>Gerente do Projeto - (Nome do gerente do projeto)</dt>
 </dl>
 <dl>
