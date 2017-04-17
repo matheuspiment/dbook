@@ -216,10 +216,11 @@ Não serão definidas métricas para *indicação de rastreabilidade ou consist�
  <em>Realização:</em> Engenheiro de Requisitos
  <em>Aprovação:</em> Cliente e Gerente de Gerente de Requisito
  <em>Colaboração:</em> Equipe técnica de requisitos  
- <em>Informação:</em> Gerente de projetos  
+ <em>Informação:</em> Gerente de Projeto  
 <strong>Tarefas:</strong>
  1. Definir e executar métodos de elicitação de requisitos
  2. Construir protótipos para possível validação
+ 3. Avaliar consistência, ausência ou redundância dos ou entre os requisitos e suas respectivas viabilidades. 
 <strong>Pré-Condições:</strong> Nenhum critério específico
 <strong>Entradas:</strong>
  * Escopo do projeto
@@ -227,8 +228,69 @@ Não serão definidas métricas para *indicação de rastreabilidade ou consist�
  * Informações do domínio
  * Fornecedores de requisitos
 <strong>Critérios de Saída:</strong> Modelo Conceitual aprovados pelo Cliente e ou Especificação dos Requisitos.
-É importante resaltar que essa especificação pode variar em completude e nível de detalhamento, dependendo do contexto em que ela é desenvolvida.
+É importante resaltar que essa especificação pode variar em completude e nível de detalhamento, dependendo do contexto
+em que ela é desenvolvida.
 <strong>Produtos:</strong>
  * Modelo Conceitual e ou Especificação dos Requisitos
 <strong>Ferramentas:</strong> Suite Office, Astah
+</pre>
+
+<pre>
+<strong>Atividade:</strong> Obter validação do cliente
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Engenheiro de Requisitos
+ <em>Aprovação:</em> Gerente de Requisito
+ <em>Colaboração:</em> Cliente  
+ <em>Informação:</em> Gerente de Projeto  
+<strong>Tarefas:</strong>
+ 1. Avaliar de forma detalhada se a documentação está dentro do que foi pedido
+ 2. Analisar os requisitos e as propostas da esquipe de engenharia de requisito de forma individual, 
+ conhecendo limitações e alterações.
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Modelo conceitual
+ * Especificação de Requisitos
+<strong>Critérios de Saída:</strong> Aprovação da especificação dos requisitos pelo cliente.
+<strong>Produtos:</strong>
+ * Especificação dos requisitos aprovada
+<strong>Ferramentas:</strong> Suite Office
+</pre>
+
+<pre>
+<strong>Atividade:</strong> Gerenciar rastreabilidade/impacto dos requisitos
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Engenheiro de Requisitos
+ <em>Aprovação:</em> Gerente de Requisito
+ <em>Colaboração:</em> Equipe técnica de requisitos 
+ <em>Informação:</em> Gerente de Projeto e Requisitos 
+<strong>Tarefas:</strong>
+ 1. Realizar estudo das dependências dos requisitos
+<strong>Pré-Condições:</strong> Nenhum critério específico, podendo ser a solicitação de mudança para o caso de impacto.
+<strong>Entradas:</strong>
+ * Modelo conceitual
+ * Especificação de Requisitos
+<strong>Critérios de Saída:</strong> O impacto/dependência dos requisitos devem estar todos detalhados. 
+<strong>Produtos:</strong>
+ * Matriz de Rastreabilidade
+ * Relatório de Impacto (caso mudança)
+<strong>Ferramentas:</strong> Suite Office
+
+<pre>
+<strong>Atividade:</strong> Revisar comprometimento da equipe
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Engenheiro de Requisitos
+ <em>Aprovação:</em> Gerente de Requisito
+ <em>Colaboração:</em> Equipe técnica 
+ <em>Informação:</em> Gerente de Projeto 
+<strong>Tarefas:</strong>
+ 1. Analisar os requisitos aprovados
+ 2. Comprometer-se a realizar (ou não) o trabalho
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Modelo conceitual
+ * Especificação de Requisitos
+<strong>Critérios de Saída:</strong> Equipe entrar em consenso sobre o trabalho a ser feito.
+<strong>Produtos:</strong>
+ * Documento de Comprometimento da Equipe ("dispensável")
+<strong>Ferramentas:</strong> Suite Office
 </pre>
