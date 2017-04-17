@@ -8,12 +8,12 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 
 ## Integrantes
 
-* Alexandre de Matos Xavier- 201202248
-* Beatriz Nogueira Carvalho da Silveira - 201508732
-* Cauã Martins Pessoa - 201400618
-* João Lucas Pacheco Araujo Bastos - 201503345
-* Matheus Ribeiro Pimenta Nunes - 201503353
-* Samuel Rocha Costa - 201508744
+- Alexandre de Matos Xavier- 201202248
+- [Beatriz Nogueira Carvalho da Silveira - 201508732](https://github.com/BeatrizN) 
+- Cauã Martins Pessoa - 201400618
+- João Lucas Pacheco Araujo Bastos - 201503345
+- [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
+- Samuel Rocha Costa - 201508744
 
 ## Onde obter detalhes?
 
