@@ -22,6 +22,6 @@ do respectivo superior.
 
 | Papel | Formação | Responsabilidades |
 |:-----:|:--------:|:-----------------:|
-| Gerente de Projeto | * Conceitos sobre gerência de projeto  * Processo de Gerência  | F | 
+| Gerente de Projeto | * Conceitos sobre gerência de projeto   * Processo de Gerência  | F | 
 
 
