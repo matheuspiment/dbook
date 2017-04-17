@@ -45,7 +45,7 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 **Mensagem:** Disponibilidade e forma de acesso aos documentos "Cronograma e Plano de Projeto"  
 **Meio de Comunicação:** E-mail, ou de forma informal  
 **Quando:** Ao final da atividade "Planejar Projeto"
-<;pre>
+</pre>
 
 **Comunicação:** Estabelecimento de novo projeto  
 **Emissor:** Gerente de Projeto  
