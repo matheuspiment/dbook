@@ -71,12 +71,28 @@ tecnologia da informação ou similares
   * Analisar os requisitos
 </pre>
 
+---
+
+<pre>
+<strong>Papel:</strong> Gerente de Qualidade  
+<strong>Formação:</strong> Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de 
+tecnologia da informação ou similares. Além disso, MBA em gestão de Qualidade 
+<strong>Conhecimentos:</strong>
+  * Conceitos sobre gerência de qualidade
+  * Normas relacionadas a área de qualidade como, por exemplo ISO 9000 RDC 59 e ISO 13485.
+<strong>Responsabilidades:</strong>
+  * Disseminar a cultura da qualidade 
+  * Controle da qualidade do projeto em relação ao seu processo
+  * Prover comunicação da equipe de qualidade e seus resultados com a equipe do projeto
+</pre>
+
 ## 5. Métricas
 
 Não serão definidas métricas para *indicação de atraso ou conclução* (GPR), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
 
 Não serão definidas métricas para *indicação de rastreabilidade ou consistência/completude* (GRE), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa validação será optida e avaliada informalmente pela equipe. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
 
+Não serão definidas métricas para *indicação de rastreabilidadees corretivas ou tempo de correção das não-conformidades* (GQA), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa validação será optida e avaliada informalmente pela equipe. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
 
 ## 6. Comunicações
 
@@ -116,6 +132,17 @@ Não serão definidas métricas para *indicação de rastreabilidade ou consist�
 <strong>Mensagem:</strong> Avaliar se o cliente aprova a documentação dos requisitos
 <strong>Meio de Comunicação:</strong> E-mail, reunião ou de forma informal 
 <strong>Quando:</strong>Ao final da elicitação e do levantamento dos impactos das mudanças de requisitos
+</pre>
+
+---
+
+<pre>
+<strong>Comunicação:</strong> Solicitação da avaliação das ações corretivas
+<strong>Emissor:</strong> Equipe técnica 
+<strong>Receptores:</strong> Gerente de Qualidade.  
+<strong>Mensagem:</strong> Solicitar avaliação das ações corretivas efetuadas
+<strong>Meio de Comunicação:</strong> E-mail, reunião ou de forma informal 
+<strong>Quando:</strong>Após a  realização da atividade "Realizar ações corretivas"
 </pre>
 
 ## 7. Macro Fluxo
@@ -315,3 +342,15 @@ em que ela é desenvolvida.
  * Especificação de Requisitos (atualizada)
 <strong>Ferramentas:</strong> Suite Office, e-mail, reunião
 </pre>
+
+---
+
+<pre>
+<strong>Atividade:</strong> As atividades da garantia da qualidade podem ser realizadas de forma informal,
+a medida que cada tarefa ou artefato esteja concluído, isso fica a critério da equipe. Caso seja nescessário um controle
+mais rígido da qualidade pode-se tomar como base o processo de garantia da qualidade do MPS.Br.
+</pre>
+
+## Referência
+
+Esse processo foi baseado nos processos de nível G do MPS.Br, mais especificamente, nos processos definidos [aqui](https://github.com/matheuspiment/PSW).
