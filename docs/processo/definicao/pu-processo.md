@@ -38,12 +38,14 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 
 ## 6. Comunicações
 
+<pre>
 **Comunicação:** Estabelecimento do cronograma e plano de projeto  
 **Emissor:** Gerente de Projeto  
 **Receptores:** Stakeholders  
 **Mensagem:** Disponibilidade e forma de acesso aos documentos "Cronograma e Plano de Projeto"  
 **Meio de Comunicação:** E-mail, ou de forma informal  
 **Quando:** Ao final da atividade "Planejar Projeto"
+<;pre>
 
 **Comunicação:** Estabelecimento de novo projeto  
 **Emissor:** Gerente de Projeto  
@@ -53,6 +55,10 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 **Quando:** Ao final da atividade “Avaliar Viabilidade do Projeto” no caso de viabilidade aprovada
 
 ## 7. Macro Fluxo
+
+## 8. Atividades
+
+
 
 
 
