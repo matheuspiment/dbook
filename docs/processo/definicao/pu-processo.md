@@ -347,8 +347,8 @@ em que ela é desenvolvida.
 
 <pre>
 <strong>Atividade:</strong> As atividades da garantia da qualidade podem ser realizadas de forma informal,
-a medida que cada tarefa ou artefato esteja concluído, isso fica a critério da equipe. Caso seja nescessário um controle
-mais rígido da qualidade pode-se tomar como base o processo de garantia da qualidade do MPS.Br.
+a medida que cada tarefa ou artefato esteja concluído, isso fica a critério da equipe. Caso seja nescessário um 
+controle mais rígido da qualidade pode-se tomar como base o processo de garantia da qualidade do MPS.Br.
 </pre>
 
 ## Referência
