@@ -61,13 +61,26 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 
 ## 8. Atividades
 
-
-
-
-
-
-
-
-
-
-
+<pre>
+<strong>Atividade:</strong> Planejar Projeto  
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Gerente de Projeto 
+ <em>Aprovação:</em> Não se aplica
+ <em>Colaboração:</em> Não se aplica 
+ <em>Informação:</em> Stakeholders
+<strong>Tarefas:</strong>
+ 1. Planejar o alcance do trabalho a ser realizado (escopo)
+ 2. Estimar os Recursos Necessários para execução do projeto
+ 3. Definir tarefas a serem executadas.
+ 4. Estimar esforço, custo e tempo.
+ 5. Definir os riscos do projeto.
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Documento de Especificação de Requisito
+ * Especificação de Caso de Uso
+<strong>Critérios de Saída:</strong> Nenhum critério específico
+<strong>Produtos:</strong>
+ * Cronograma do Projeto
+ * Plano Geral do Projeto
+<strong>Ferramentas:</strong> Suite Office  
+</pre>
