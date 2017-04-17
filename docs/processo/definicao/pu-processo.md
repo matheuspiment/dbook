@@ -39,7 +39,7 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 ## 6. Comunicações
 
 <p>
-<em>Comunicação:</em> Estabelecimento do cronograma e plano de projeto  
+<strong>Comunicação:</strong> Estabelecimento do cronograma e plano de projeto  
 **Emissor:** Gerente de Projeto  
 **Receptores:** Stakeholders  
 **Mensagem:** Disponibilidade e forma de acesso aos documentos "Cronograma e Plano de Projeto"  
