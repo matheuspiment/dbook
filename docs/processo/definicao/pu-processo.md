@@ -25,12 +25,12 @@ do respectivo superior.
 <strong>Formação:</strong> Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de 
 tecnologia da informação ou similares  
 <strong>Conhecimentos:</strong>
-* Conceitos de gerência de projeto
-* Processo de gerência de projeto da organização
+  * Conceitos de gerência de projeto
+  * Processo de gerência de projeto da organização
 <strong>Responsabilidades:</strong>
-* Definir e manter o plano de gerência do projeto  
-* Manter os recursos envolvidos  
-* Estabelecer comunicação com os stakeholders
+  * Definir e manter o plano de gerência do projeto  
+  * Manter os recursos envolvidos  
+  * Estabelecer comunicação com os stakeholders
 </pre>
 
 ## 5. Métricas
