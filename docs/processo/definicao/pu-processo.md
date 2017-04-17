@@ -20,17 +20,19 @@ do respectivo superior.
 
 ## 4. Papéis
 
-**Papel:** Gerente de Projeto  
-**Formação:** Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de tecnologia da 
+<pre>
+<strong>Papel:</strong> Gerente de Projeto  
+<strong>Formação:</strong> Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de tecnologia da 
 informação ou similares  
-**Conhecimentos:**
+<strong>Conhecimentos:</strong>
 * Conceitos de gerência de projeto
 * Processo de gerência de projeto da organização
 
-**Responsabilidades:**
+<strong>Responsabilidades:</strong>
 * Definir e manter o plano de gerência do projeto  
 * Manter os recursos envolvidos  
 * Estabelecer comunicação com os stakeholders
+</pre>
 
 ## 5. Métricas
 
