@@ -274,6 +274,7 @@ em que ela é desenvolvida.
  * Matriz de Rastreabilidade
  * Relatório de Impacto (caso mudança)
 <strong>Ferramentas:</strong> Suite Office
+</pre>
 
 <pre>
 <strong>Atividade:</strong> Revisar comprometimento da equipe
