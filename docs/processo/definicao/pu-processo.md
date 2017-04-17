@@ -22,7 +22,8 @@ do respectivo superior.
 
 <pre>
 <strong>Papel:</strong> Gerente de Projeto  
-<strong>Formação:</strong> Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de tecnologia da informação ou similares  
+<strong>Formação:</strong> Essas ocupações são exercidas por pessoas com escolaridade de ensino superior na área de 
+tecnologia da informação ou similares  
 <strong>Conhecimentos:</strong>
 * Conceitos de gerência de projeto
 * Processo de gerência de projeto da organização
