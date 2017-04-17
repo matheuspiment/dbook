@@ -69,15 +69,17 @@ Exemplo:
 Definir as premissas do projeto, ou seja, os recursos não humanos e o ambiente necessários para o projeto, incluindo, por exemplo, equipamentos, ferramentas, serviços, componentes, viagens e requisitos de processo. 
 
 Modelo:  
+
 | Recurso | Tipo |
-|-------|-----|
+| ------- | ----- |
 | Recurso alocado | Definir o tipo do recurso |
 
 Exemplo:  
+
 | Recurso | Tipo |
-|-------|-----|
+| ------- | ----- |
 | Software X | Ferramenta |
-| Sala de Reuniões| Ambiente |
+| Sala de Reuniões | Ambiente |
 
 ## 7. Restrições do Projeto
 
@@ -113,6 +115,7 @@ Exemplo:
 Definição dos riscos para o projeto.
 
 Exemplo:  
+
 | Risco | Nível (A/M/B) Alto/Médio/Baixo | Plano de Risco |
 |:-------------:|:-------:|:-------:|
 | Desligamento de um membro da equipe | B | Bonificação para os envolvidos no projeto |
@@ -122,6 +125,7 @@ Exemplo:
 Definir os papéis/recursos que farão parte do projeto, cada papel deve atender as exigências estabelecidas em seus devidos processos.
 
 Exemplo:  
+
 | Recurso | Papel |
 |-------------|-------|
 | José Antônio | Gerente de Projeto |
@@ -132,9 +136,9 @@ Definir o modelo de ciclo de vida e as fases definidos/escolhidos para o projeto
 
 ## 12. Aprovação
 
-<pre>
+<p>
 __________________________________________________________    __________________
 Patrocinador do Projeto - (Nome do patrocinador do projeto)          Data
 __________________________________________________________    __________________
 Gerente do Projeto - (Nome do gerente do projeto)                    Data
-</pre>
+</p>
