@@ -98,6 +98,26 @@ Não serão definidas métricas para *indicação de rastreabilidade ou consist�
 <strong>Quando:</strong>Ao final da atividade “Avaliar Viabilidade do Projeto” no caso de viabilidade aprovada
 </pre>
 
+---
+
+<pre>
+<strong>Comunicação:</strong> Solicitação de mudança de requisito 
+<strong>Emissor:</strong> Cliente ou Gerente de requisitos  
+<strong>Receptores:</strong> Engenheiro de Requisitos  
+<strong>Mensagem:</strong> Adição, alteração ou exclusão de requisitos 
+<strong>Meio de Comunicação:</strong> E-mail, ou de forma informal  
+<strong>Quando:</strong>Assim que for identificada necessidade de alteração dos requisitos
+</pre>
+
+<pre>
+<strong>Comunicação:</strong> Avaliação do cliente
+<strong>Emissor:</strong> Engenheiro de Requisitos 
+<strong>Receptores:</strong> Cliente  
+<strong>Mensagem:</strong> Avaliar se o cliente aprova a documentação dos requisitos
+<strong>Meio de Comunicação:</strong> E-mail, reunião ou de forma informal 
+<strong>Quando:</strong>Ao final da elicitação e do levantamento dos impactos das mudanças de requisitos
+</pre>
+
 ## 7. Macro Fluxo
 
 ## 8. Atividades
@@ -183,6 +203,32 @@ Não serão definidas métricas para *indicação de rastreabilidade ou consist�
  * Cronograma do Projeto
  * Plano Geral do Projeto
 <strong>Critérios de Saída:</strong> Nenhum critério específico
-<strong>Produtos:</strong> Relatório de Conclusão do Projeto 
+<strong>Produtos:</strong> 
+ * Relatório de Conclusão do Projeto 
 <strong>Ferramentas:</strong> Suite Office 
+</pre>
+
+---
+
+<pre>
+<strong>Atividade:</strong> Elicitar requisitos
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Engenheiro de Requisitos
+ <em>Aprovação:</em> Cliente e Gerente de Gerente de Requisito
+ <em>Colaboração:</em> Equipe técnica de requisitos  
+ <em>Informação:</em> Gerente de projetos  
+<strong>Tarefas:</strong>
+ 1. Definir e executar métodos de elicitação de requisitos
+ 2. Construir protótipos para possível validação
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Escopo do projeto
+ * Necessidades dos usuário
+ * Informações do domínio
+ * Fornecedores de requisitos
+<strong>Critérios de Saída:</strong> Modelo Conceitual aprovados pelo Cliente e ou Especificação dos Requisitos.
+É importante resaltar que essa especificação pode variar em completude e nível de detalhamento, dependendo do contexto em que ela é desenvolvida.
+<strong>Produtos:</strong>
+ * Modelo Conceitual e ou Especificação dos Requisitos
+<strong>Ferramentas:</strong> Suite Office, Astah
 </pre>
