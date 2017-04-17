@@ -1,15 +1,15 @@
-# <PR>-Plano Geral do Projeto (PGP)
+# PR-Plano Geral do Projeto (PGP)
 
 ## 1. Sumário Executivo do Projeto
 
-<Definir o objetivo do plano.>  
+Definir o objetivo do plano. 
 Exemplo:
 Este plano propõe implantar um gerenciador de tarefas. 
 O objetivo é proporcionar um melhoramento nas organizações das tarefas dos desenvolvedores de software. 
 
 ## 2. Visão Geral do Projeto
 
-<Definir uma visão geral que será apresentado no plano do projeto.>  
+Definir uma visão geral que será apresentado no plano do projeto.  
 Exemplo:  
 O projeto Gestão Academica será desenvolvido por uma equipe com cinco integrantes.  
 Será esclarecido as seguintes etapas abaixo no decorrer do plano de projeto de software.  
@@ -19,7 +19,7 @@ Será esclarecido as seguintes etapas abaixo no decorrer do plano de projeto de 
 
 ## 3. Objetivos do Projeto
 
-< Definir o objetivo do projeto.>
+Definir o objetivo do projeto.
 Exemplo:
 O propósito do projeto Gestão Acadêmica é desenvolver e implantar um sistema de matrícula. 
 Este sistema fará o controle de faltas, notas permitido que os usuários submeta seus trabalhos 
@@ -31,7 +31,7 @@ A estimativa de duração do projeto é de três meses.
 
 ## 4. Escopo do Projeto
 
-< Definir o escopo do projeto.>
+Definir o escopo do projeto.
 Exemplo:  
 O escopo deste projeto inclui e exclui os seguintes itens.
 No Escopo:  
@@ -50,11 +50,11 @@ Aquisição do SGBD Oracle 11g: Aquisição e instalação do SGBD Oracle 11g.
 
 < Definir os afetados ou impactos pelo projeto.>
 Modelo: 
-|  <Organização>  |
+|  Organização  |
 |:---------------:|
 |  Departamento/Setor  | Impacto |
 |:---------------:|:-------------:|
-|  <Setor ou departamento da empresa que será afetado por uma determinada atividade do processo/projeto.> | <Definir os impactos que serão ocasionados no departamento/setor pela execução de uma determinada atividade.> |
+|  Setor ou departamento da empresa que será afetado por uma determinada atividade do processo/projeto.> | Definir os impactos que serão ocasionados no departamento/setor pela execução de uma determinada atividade. |
 
 
 
