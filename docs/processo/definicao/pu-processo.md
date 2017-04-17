@@ -106,7 +106,7 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 </pre>
 
 <pre>
-<strong>Atividade:</strong> Conduzir Execução do Projeto
+<strong>Atividade:</strong> Conduzir e Monitorar Execução do Projeto
 <strong>Responsabilidades:</strong>
  <em>Realização:</em> Gerente de Projeto 
  <em>Aprovação:</em> Não se aplica 
@@ -120,8 +120,28 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
 <strong>Entradas:</strong>
  * Plano Geral do Projeto - riscos
  * Cronograma do Projeto
-<strong>Critérios de Saída:</strong> Não se aplica 
-<strong>Produtos:</strong> Não se aplica 
+<strong>Critérios de Saída:</strong> Nenhum critério específico 
+<strong>Produtos:</strong>
+ * Relatório de Monitoramento
 <strong>Ferramentas:</strong> Suite Office 
 </pre>
 
+<pre>
+<strong>Atividade:</strong> Encerrar Projeto
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Gerente de Projeto 
+ <em>Aprovação:</em> Não se aplica 
+ <em>Colaboração:</em> Não se aplica 
+ <em>Informação:</em> Stakeholders
+<strong>Tarefas:</strong>
+ 1. Auditar Execução do Projeto
+ 2. Apresentar Resultados
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Todos os Relatórios de Monitoramento
+ * Cronograma do Projeto
+ * Plano Geral do Projeto
+<strong>Critérios de Saída:</strong> Nenhum critério específico
+<strong>Produtos:</strong> Relatório de Conclusão do Projeto 
+<strong>Ferramentas:</strong> Suite Office 
+</pre>
