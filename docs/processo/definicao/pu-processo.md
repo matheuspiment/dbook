@@ -84,3 +84,23 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
  * Plano Geral do Projeto
 <strong>Ferramentas:</strong> Suite Office  
 </pre>
+
+<pre>
+<strong>Atividade:</strong> Avaliar Viabilidade do Projeto  
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Gerente de Projeto 
+ <em>Aprovação:</em> Stakeholders
+ <em>Colaboração:</em> Não se aplica 
+ <em>Informação:</em> Stakeholders
+<strong>Tarefas:</strong>
+ 1. Negociar com a equipe escopo e cronograma (Tempo/Esforço)
+ 2. Negociar com o patrocinador escopo e cronograma do projeto
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Plano Geral do Projeto
+ * Cronograma do Projeto
+<strong>Critérios de Saída:</strong> Parecer do patrocinador (rprovação/reprovação)
+<strong>Produtos:</strong>
+ * Aprovação do Plano Geral do Projeto
+<strong>Ferramentas:</strong> Suite Office 
+</pre>
