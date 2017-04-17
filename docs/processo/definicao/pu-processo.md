@@ -104,3 +104,24 @@ Não serão definidas métricas para indicação de atraso ou conclução, uma v
  * Aprovação do Plano Geral do Projeto
 <strong>Ferramentas:</strong> Suite Office 
 </pre>
+
+<pre>
+<strong>Atividade:</strong> Conduzir Execução do Projeto
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Gerente de Projeto 
+ <em>Aprovação:</em> Não se aplica 
+ <em>Colaboração:</em> Não se aplica 
+ <em>Informação:</em> Stakeholders
+<strong>Tarefas:</strong>
+ 1. Acompanhar execução do projeto
+ 2. Monitorar riscos do projeto
+ 3. <em>Realocar tarefas/atividades</em> 
+<strong>Pré-Condições:</strong> Aprovação do Plano de Trabalho pelo patrocinador
+<strong>Entradas:</strong>
+ * Plano Geral do Projeto - riscos
+ * Cronograma do Projeto
+<strong>Critérios de Saída:</strong> Não se aplica 
+<strong>Produtos:</strong> Não se aplica 
+<strong>Ferramentas:</strong> Suite Office 
+</pre>
+
