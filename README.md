@@ -22,7 +22,7 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 - Cauã Martins Pessoa - 201400618
 - João Lucas Pacheco Araujo Bastos - 201503345
 - [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
-- Samuel Rocha Costa - 201508744
+- [Samuel Rocha Costa - 201508744](https://github.com/samuelrcosta)
 
 
 
