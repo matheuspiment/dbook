@@ -15,7 +15,7 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/DB2017-1-TAP-1.0.md)
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/DB2017-1-PGC-1.0.md)
-* Plano Geral do Projeto (em construção)
+* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/DB2017-1-PGP-1.0.md) (em construção)
 * Especificação dos Requisidtos (em construção)
 * Especificação do Design (em construção)
 
