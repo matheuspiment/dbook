@@ -21,14 +21,6 @@ Exemplo:
 
 Devido à natureza simplória do projeto e à equipe reduzida não será definida política de permissão de acesso
 
-Siglas definidas para os artefatos que serão produzidos nesse projeto: 
-
-* TAP: Termo de Abertura do Projeto
-* PGP: Plano Geral do Projeo
-* EPR: Especificação dos Requisitos
-* EPD: Especificação do Design
-* RDM: Relatório de Monitoramento
-
 Para artefatos que possuem mais de uma instância, como o Relatório de Monitoramento (RDM), devem possuir o número de 
 instância seguido da sigla do artefato. Para o primeiro relatório de monitoramento teríamos DB-RDM-1-1.0, onde "1" se refere
 ao número/ordem do artefato.
