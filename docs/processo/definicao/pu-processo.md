@@ -251,8 +251,8 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
  * Informações do domínio
  * Fornecedores de requisitos
 <strong>Critérios de Saída:</strong> Modelo Conceitual aprovados pelo Cliente e ou 
-Especificação dos Requisitos. É importante resaltar que essa especificação pode variar em completude e nível de 
-detalhamento, dependendo do contexto em que ela é desenvolvida.
+Especificação dos Requisitos. É importante resaltar que essa especificação pode variar em 
+completude e nível de detalhamento, dependendo do contexto em que ela é desenvolvida.
 <strong>Produtos:</strong>
  * Modelo Conceitual e ou Especificação dos Requisitos
 <strong>Ferramentas:</strong> Suite Office, Astah
