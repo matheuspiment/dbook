@@ -165,10 +165,8 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
 <strong>Pré-Condições:</strong> Nenhum critério específico
 <strong>Entradas:</strong>
  * Documento de Especificação de Requisito
- * Especificação de Caso de Uso
 <strong>Critérios de Saída:</strong> Nenhum critério específico
 <strong>Produtos:</strong>
- * Cronograma do Projeto
  * Plano Geral do Projeto
 <strong>Ferramentas:</strong> Suite Office  
 </pre>
@@ -186,7 +184,6 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
 <strong>Pré-Condições:</strong> Nenhum critério específico
 <strong>Entradas:</strong>
  * Plano Geral do Projeto
- * Cronograma do Projeto
 <strong>Critérios de Saída:</strong> Parecer do patrocinador (rprovação/reprovação)
 <strong>Produtos:</strong>
  * Aprovação do Plano Geral do Projeto
@@ -206,8 +203,7 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
  3. <em>Realocar tarefas/atividades</em> 
 <strong>Pré-Condições:</strong> Aprovação do Plano de Trabalho pelo patrocinador
 <strong>Entradas:</strong>
- * Plano Geral do Projeto - riscos
- * Cronograma do Projeto
+ * Plano Geral do Projeto 
 <strong>Critérios de Saída:</strong> Nenhum critério específico 
 <strong>Produtos:</strong>
  * Relatório de Monitoramento
@@ -227,7 +223,6 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
 <strong>Pré-Condições:</strong> Nenhum critério específico
 <strong>Entradas:</strong>
  * Todos os Relatórios de Monitoramento
- * Cronograma do Projeto
  * Plano Geral do Projeto
 <strong>Critérios de Saída:</strong> Nenhum critério específico
 <strong>Produtos:</strong> 
@@ -335,7 +330,7 @@ em que ela é desenvolvida.
  2. Avaliar se a documentação está em conformidade com o que foi pedido
 <strong>Pré-Condições:</strong> Nenhum critério específico
 <strong>Entradas:</strong>
- * Relatório de Impacto de Mudanças ("dispensável")
+ * Relatório de Mudanças ("dispensável")
  * Especificação de Requisitos
 <strong>Critérios de Saída:</strong> Aprovação ou reprovalção da mudança
 <strong>Produtos:</strong>
