@@ -242,16 +242,17 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
 <strong>Tarefas:</strong>
  1. Definir e executar métodos de elicitação de requisitos
  2. Construir protótipos para possível validação
- 3. Avaliar consistência, ausência ou redundância dos ou entre os requisitos e suas respectivas viabilidades. 
+ 3. Avaliar consistência, ausência ou redundância dos ou entre os requisitos e suas respectivas 
+ viabilidades. 
 <strong>Pré-Condições:</strong> Nenhum critério específico
 <strong>Entradas:</strong>
  * Escopo do projeto
  * Necessidades dos usuário
  * Informações do domínio
  * Fornecedores de requisitos
-<strong>Critérios de Saída:</strong> Modelo Conceitual aprovados pelo Cliente e ou Especificação dos Requisitos.
-É importante resaltar que essa especificação pode variar em completude e nível de detalhamento, dependendo do contexto
-em que ela é desenvolvida.
+<strong>Critérios de Saída:</strong> Modelo Conceitual aprovados pelo Cliente e ou 
+Especificação dos Requisitos. É importante resaltar que essa especificação pode variar em completude e nível de 
+detalhamento, dependendo do contexto em que ela é desenvolvida.
 <strong>Produtos:</strong>
  * Modelo Conceitual e ou Especificação dos Requisitos
 <strong>Ferramentas:</strong> Suite Office, Astah
