@@ -39,7 +39,7 @@ Define a estrutura de organização dos artefatos no repositório.
 
 Exemplo:
 
-![estrutura-repositorio](https://github.com/matheuspiment/dbook/blob/master/docs/estrutura-repositorio.png)
+![estrutura-repositorio](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/estrutura-repositorio-exemplo.png)
 
 ## 3. Sistema de Configuração
 
