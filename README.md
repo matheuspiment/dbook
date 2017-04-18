@@ -15,7 +15,7 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.0.md)
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGC-1.0.md)
-* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.0.md) (em construção)
+* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.0.md)
 * Especificação dos Requisidtos (em construção)
 * Especificação do Design (em construção)
 
@@ -27,6 +27,3 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 - João Lucas Pacheco Araujo Bastos - 201503345
 - [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
 - [Samuel Rocha Costa - 201508744](https://github.com/samuelrcosta)
-
-
-
