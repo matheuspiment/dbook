@@ -31,7 +31,7 @@ Define a estrutura de organização dos artefatos no repositório.
 
 Exemplo:
 
-![estrutura-repositorio](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/estrutura-repositorio-exemplo.png)
+![estrutura-repositorio-exemplo](https://cloud.githubusercontent.com/assets/14007153/25154232/42c5ed50-2466-11e7-97bd-20f5c19a122d.png)
 
 ## 3. Sistema de Configuração
 
