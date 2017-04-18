@@ -1,0 +1,123 @@
+# PR-Plano Geral do Projeto (PGP)
+
+## 1. Sumário Executivo do Projeto
+
+Este plano propõe conduzir as atividades de desenvolvimento da aplicação referente ao [projeto dbook](https://github.com/matheuspiment/dbook/blob/master/docs/DB2017-1-TAP-1.0.md).
+O objetivo é organizar é organizar as tarefas dos desenvolvedores e outros envolvidos no projeto.
+
+## 2. Visão Geral do Projeto
+  
+O projeto dbook visa produzir uma aplicação, para dispositivos móveis, que permite a troca e doação de livros entre seus usuários 
+e será desenvolvido por uma equipe com seis integrantes.  
+Será esclarecido as seguintes etapas abaixo no decorrer do plano de projeto de software.  
+- Objetivos do Projeto
+- Escopo do Projeto
+- Organizações Afetadas ou Impactadas
+- Recursos Não Humanos e de Ambiente
+- Restrições do Projeto
+- Estimativas do Projeto
+- Riscos do Projeto
+- Recursos Humanos
+- Ciclo de Vida do Projeto
+
+## 3. Objetivos do Projeto
+
+ O dbook tem como objetivo apoiar a disseminação do conhecimento e a valorização da aprendizagem, 
+ por meio de uma aplicação para dispositivos moveis. Ele se destaca, dentre outras aplicações, 
+ pela adoção de padrões e modelos de qualidade e desenvolvimento de software
+ 
+ O projeto está dividido em duas fases: especificação/desenvolvimento e manutenção.  
+ A estimativa para a duração da primeira fase é de aproximadamente um mês.
+
+## 4. Escopo do Projeto
+
+Definir o escopo do projeto.
+
+O escopo deste projeto inclui e exclui os seguintes itens.
+
+**No Escopo:**  
+* Análise e especificação do software: Será realizada uma analise nas informações coletadas e através deste procedimento
+será gerada a especificação do sistema que será desenvolvido. A especificação do sistema irá conter os diagramas UML,
+documento com a especificação de requisitos, etc.  
+* Desenvolvimento: Desenvolvimento do software.     
+* Acompanhamento: Acompanhamento semana do projeto, onde será gerado o Relatório de Monitoramento.   
+
+**Fora do Escopo:**  
+* Testes/Casos de Testes para o sistema    
+* Implantação do sistema
+* Aquisição e instalação de um novo servidor para instalação do software
+* Dados e processos de controle financeiros ou de recursos humanos.
+
+## 5. Organizações Afetadas ou Impactadas
+
+Não foram identificadas organizações com possíveis impactos.
+
+## 6. Recursos Não Humanos e de Ambiente
+
+Definir as premissas do projeto, ou seja, os recursos não humanos e o ambiente necessários para o projeto, incluindo, por exemplo, equipamentos, ferramentas, serviços, componentes, viagens e requisitos de processo. 
+
+| Recurso             | Tipo          |
+| ------------------- |---------------|
+| Suite Office        | Ferramenta    |
+| Conexão à internet  | "Ferramenta"  |
+| Computadores        | Ferramenta    |
+
+## 7. Restrições do Projeto
+
+* Todo os artefatos produzido serão públicos (licença pública)
+* Conhecimento limitado acerca da linguagem de desenvolvimento
+
+## 8. Estimativas do Projeto
+
+### Cronograma
+
+| ID da Atividade   | Dependência   | Atividade   | Inicio   | Término   | Tempo Previsto (dias)   | Recurso   |
+|:-----------------:|:-------------:|:-----------:|:--------:|:---------:|:-----------------------:|:---------:|
+|      |            | Projeto                          | 24/03/2017 | 27/06/2017 | 95 |   |
+| AT01 | AT07, AT02 | Coletar Requisitos | 26/03/2017 | 26/04/2017 | 30 | R1 | 
+
+### Recursos
+
+| ID do Recurso | Recurso |
+|:-------------:|:-------:|
+| R1 | Gerente de Projeto |
+| R2 | Analise de Requisitos |
+| R3 | Arquiteto de Software |
+| R4 | Designer |
+| R5 | Desenvolvedor |
+| R6 | Analista de Qualidade |
+
+## 9. Riscos do Projeto
+
+Definição dos riscos para o projeto.
+
+Exemplo:  
+
+| Risco | Nível (A/M/B) Alto/Médio/Baixo | Plano de Risco |
+|:-------------:|:-------:|:-------:|
+| Desligamento de um membro da equipe | B | Bonificação para os envolvidos no projeto |
+
+## 10. Recursos Humanos
+
+Definir os papéis/recursos que farão parte do projeto, cada papel deve atender as exigências estabelecidas em seus devidos processos.
+
+Exemplo:  
+
+| Recurso | Papel |
+|-------------|-------|
+| José Antônio | Gerente de Projeto |
+
+## 11. Ciclo de Vida do Projeto
+
+Definir o modelo de ciclo de vida e as fases definidos/escolhidos para o projeto.
+
+## 12. Aprovação
+
+<dl>
+  <dt>_________________________________________________________</dt>
+  <dt>Patrocinador do Projeto - (Nome do patrocinador do projeto)</dt>
+
+  <dt>__________________________________________________________</dt>
+  <dt>Gerente do Projeto - (Nome do gerente do projeto)</dt>
+</dl>
+<dl>
