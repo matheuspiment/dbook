@@ -11,6 +11,13 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 ### Processos utilizados:  
 * [Processo Unificado](https://github.com/matheuspiment/dbook/blob/master/docs/processo/definicao/pu-processo.md)
 
+### Templetes disponíveis:
+
+* [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-termo-de-abertura.md)
+* [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-plano-geral-de-configuracao.md)
+* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-plano-geral-do-projeto.md)
+* [Relatório de Monitoramento](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-relatorio-de-monitoramento.md)
+
 ### Documentos disponíveis:
 
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md)
