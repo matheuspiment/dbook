@@ -1,9 +1,9 @@
-# <PR>-Relatório de Monitoramento (CDM)
+# PR-Relatório de Monitoramento (CDM)
 
-Nome do Projeto: <Nome do Projeto>
-Período de Execução: <Definir o período de execução do relatório>
-Nome do Gerente de Projeto: <Nome do Gerente de Projeto>
-Patrocinador: <Nome do Patrocinador>
+Nome do Projeto: Nome do Projeto
+Período de Execução: Definir o período de execução do relatório
+Nome do Gerente de Projeto: Nome do Gerente de Projeto
+Patrocinador: Nome do Patrocinador>
 
 ## 1. Acompanhamento de Execução
 
