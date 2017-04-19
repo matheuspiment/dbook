@@ -88,11 +88,11 @@ tecnologia da informação ou similares. Além disso, MBA em gestão de Qualidad
 
 ## 5. Métricas
 
-Não serão definidas métricas para *indicação de atraso ou conclução* (GPR), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
+Não serão definidas métricas para *indicação de atraso ou conclução* (GPR), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente curto para a execução das atividades. Essa decição foi tomada levando também em concideração as [suposições](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md#suposições) acerca do projeto.
 
-Não serão definidas métricas para *indicação de rastreabilidade ou consistência/completude* (GRE), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa validação será optida e avaliada informalmente pela equipe. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
+Não serão definidas métricas para *indicação de rastreabilidade ou consistência/completude* (GRE), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa validação será optida e avaliada informalmente pela equipe. Essa decição foi tomada levando também em concideração as [suposições](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md#suposições) acerca do projeto.
 
-Não serão definidas métricas para *indicação de rastreabilidadees corretivas ou tempo de correção das não-conformidades* (GQA), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa validação será optida e avaliada informalmente pela equipe. Essa decição foi tomada levando em concideração a maturidade da equipe, bem como a confiança que se tem na mesma.
+Não serão definidas métricas para *indicação de rastreabilidadees corretivas ou tempo de correção das não-conformidades* (GQA), uma vez que o projeto possui escopo pequeno e prazo de conclução relativamente suficiente para a execução das atividades. Essa validação será optida e avaliada informalmente pela equipe. Essa decição foi tomada levando também em concideração as [suposições](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md#suposições) acerca do projeto.
 
 ## 6. Comunicações
 
@@ -343,8 +343,8 @@ completude e nível de detalhamento, dependendo do contexto em que ela é desenv
 
 <pre>
 <strong>Atividade:</strong> As atividades da garantia da qualidade podem ser realizadas de forma informal,
-a medida que cada tarefa ou artefato esteja concluído, isso fica a critério da equipe. Caso seja nescessário um 
-controle mais rígido da qualidade pode-se tomar como base o processo de garantia da qualidade do MPS.Br.
+a medida que cada tarefa ou artefato esteja concluído, isso fica a critério da equipe. 
+Caso seja nescessário um controle mais rígido da qualidade pode-se tomar como base o processo de garantia da qualidade do MPS.Br.
 </pre>
 
 ## Referência
