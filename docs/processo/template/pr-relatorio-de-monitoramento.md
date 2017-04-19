@@ -1,4 +1,4 @@
-# PR-Relatório de Monitoramento (CDM)
+# PR-Relatório de Monitoramento (RDM)
 
 Nome do Projeto: Nome do Projeto  
 Período de Execução: Definir o período de execução do relatório  
