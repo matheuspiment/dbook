@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/matheuspiment/dbook.svg?style=plastic)](https://github.com/matheuspiment/dbook/blob/master/LICENSE)
 
-O dbook é desenvolvido no contexto da disciplina de Manutenção de Software e conciste em uma aplivativo, para dispositivos móveis, que permite a troca e doação de livros entre seus usuários.
+O dbook é desenvolvido no contexto da disciplina de Manutenção de Software e conciste em um aplivativo, para dispositivos móveis, que permite a troca e doação de livros entre seus usuários.
 
 Consulte o nosso "[Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGC-1.0.md)" para conhecer como está organizado o nosso repositório.
 
