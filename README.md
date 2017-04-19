@@ -17,6 +17,7 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-plano-geral-de-configuracao.md)
 * [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-plano-geral-do-projeto.md)
 * [Relatório de Monitoramento](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-relatorio-de-monitoramento.md)
+* [Relatório de Mudança](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-relatorio-de-mudanca.md)
 
 ### Documentos disponíveis:
 
