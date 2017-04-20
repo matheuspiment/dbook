@@ -38,4 +38,4 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 
 ## Onde obter detalhes?
 
-Consulte a documentação [AQUI](https://github.com/matheuspiment/dbook/wiki) ou entre em contato pelo email **matheuspiment@hotmail.com**.
+Consulte a documentação [AQUI](https://github.com/matheuspiment/dbook/tree/master/docs) ou entre em contato pelo email **matheuspiment@hotmail.com**.
