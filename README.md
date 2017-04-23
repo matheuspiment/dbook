@@ -1,6 +1,6 @@
 # dbook
 
-[![license](https://img.shields.io/github/license/matheuspiment/dbook.svg?style=plastic)](https://github.com/matheuspiment/dbook/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/matheuspiment/dbook.svg)](https://github.com/matheuspiment/dbook/blob/master/LICENSE)
 
 O dbook é desenvolvido no contexto da disciplina de Manutenção de Software e conciste em um aplivativo, para dispositivos móveis, que permite a troca e doação de livros entre seus usuários.
 
