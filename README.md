@@ -18,14 +18,18 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 * [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-plano-geral-do-projeto.md)
 * [Relatório de Monitoramento](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-relatorio-de-monitoramento.md)
 * [Relatório de Mudança](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-relatorio-de-mudanca.md)
+* [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-especificacao-do-design.md)
 
 ### Documentos disponíveis:
 
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md)
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGC-1.0.md)
-* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.0.md)
+* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.1.md)
 * Especificação dos Requisidtos (em construção)
 * [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-EDP-1.0.md) (preliminar)
+* [Relatório de Monitoramento-1](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-1.1.md)
+* [Relatório de Monitoramento-2](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-2.0.md)
+* [Relatório de Monitoramento-3](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-3.0.md)
 
 ## Integrantes
 
