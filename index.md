@@ -18,14 +18,18 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 * [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-plano-geral-do-projeto.md)
 * [Relatório de Monitoramento](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-relatorio-de-monitoramento.md)
 * [Relatório de Mudança](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-relatorio-de-mudanca.md)
+* [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/processo/template/pr-especificacao-do-design.md)
 
 ### Documentos disponíveis:
 
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md)
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGC-1.0.md)
-* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.0.md)
+* [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.1.md)
 * Especificação dos Requisidtos (em construção)
-* Especificação do Design (em construção)
+* [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-EDP-1.0.md) (preliminar)
+* [Relatório de Monitoramento-1](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-1.1.md)
+* [Relatório de Monitoramento-2](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-2-1.1.md)
+* [Relatório de Monitoramento-3](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-3-1.1.md)
 
 ## Integrantes
 
@@ -34,7 +38,7 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 - Cauã Martins Pessoa - 201400618
 - João Lucas Pacheco Araujo Bastos - 201503345
 - [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
-- Samuel Rocha Costa - 201508744
+- [Samuel Rocha Costa - 201508744](https://github.com/samuelrcosta)
 
 ## Onde obter detalhes?
 
