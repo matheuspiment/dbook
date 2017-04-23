@@ -28,8 +28,8 @@ Com a finalidade de se praticar engenharia de software a documentação do proje
 * Especificação dos Requisidtos (em construção)
 * [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-EDP-1.0.md) (preliminar)
 * [Relatório de Monitoramento-1](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-1.1.md)
-* [Relatório de Monitoramento-2](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-2.0.md)
-* [Relatório de Monitoramento-3](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-3.0.md)
+* [Relatório de Monitoramento-2](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-2-1.0.md)
+* [Relatório de Monitoramento-3](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-3-1.0.md)
 
 ## Integrantes
 
