@@ -149,6 +149,8 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
 
 ## 8. Atividades
 
+### Atividades de GPR
+
 <pre>
 <strong>Atividade:</strong> Planejar Projeto  
 <strong>Responsabilidades:</strong>
@@ -232,11 +234,13 @@ Não serão definidas métricas para *indicação de rastreabilidadees corretiva
 
 ---
 
+### Atividades de GRE
+
 <pre>
 <strong>Atividade:</strong> Elicitar requisitos
 <strong>Responsabilidades:</strong>
  <em>Realização:</em> Engenheiro de Requisitos
- <em>Aprovação:</em> Cliente e Gerente de Gerente de Requisito
+ <em>Aprovação:</em> Cliente e Gerente de Gerente de Requisitos
  <em>Colaboração:</em> Equipe técnica de requisitos  
  <em>Informação:</em> Gerente de Projeto  
 <strong>Tarefas:</strong>
@@ -340,6 +344,33 @@ completude e nível de detalhamento, dependendo do contexto em que ela é desenv
 </pre>
 
 ---
+
+### Atividades de Design 
+
+<pre>
+<strong>Atividade:</strong> Design
+<strong>Responsabilidades:</strong>
+ <em>Realização:</em> Arquiteto e Designer de Software
+ <em>Aprovação:</em> Cliente e Gerente de Gerente de Requisitos
+ <em>Colaboração:</em> Equipe técnica de requisitos  
+ <em>Informação:</em> Gerente de Projeto  
+<strong>Tarefas:</strong>
+ 1. Definir a arquitetura do software
+ 2. Construir protótipos para possível validação, caso necessário
+ 3. Construir o design detalhado do software
+<strong>Pré-Condições:</strong> Nenhum critério específico
+<strong>Entradas:</strong>
+ * Especificação de Requisitos
+<strong>Critérios de Saída:</strong> Uma especificação concistente acerca da arquitetura/design 
+deve ser definida.
+<strong>Produtos:</strong>
+ * Especificação do Design
+<strong>Ferramentas:</strong> Suite Office, Astah
+</pre>
+
+---
+
+### Atividades de GQA
 
 <pre>
 <strong>Atividade:</strong> As atividades da garantia da qualidade podem ser realizadas de forma informal,
