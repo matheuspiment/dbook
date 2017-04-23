@@ -11,8 +11,7 @@ Período de Execução Real:
 
 | Escopo Não Atendido | Observações |
 |:-------------------:|:-----------:|
-| Definir o escopo que não foi atendido. Caso tenha atendido todo escopo definido no plano do projeto coloque “Não se aplica” 
-| Descrever comentários pertinentes ao projeto. Caso não tenha comentário coloque “Nada a declarar” |
+| Definir o escopo que não foi atendido. Caso tenha atendido todo escopo definido no plano do projeto coloque “Não se aplica” | Descrever comentários pertinentes ao projeto. Caso não tenha comentário coloque “Nada a declarar” |
 
 ## 2. Tarefas/Atividades
 
