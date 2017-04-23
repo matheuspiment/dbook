@@ -36,7 +36,7 @@ Com a finalidade de se praticar Engenharia de Software a documentação do proje
 
 - Alexandre de Matos Xavier- 201202248
 - [Beatriz Nogueira Carvalho da Silveira - 201508732](https://github.com/BeatrizN) 
-- Cauã Martins Pessoa - 201400618(https://github.com/Caua539)
+- [Cauã Martins Pessoa - 201400618](https://github.com/Caua539)
 - João Lucas Pacheco Araujo Bastos - 201503345
 - [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
 - [Samuel Rocha Costa - 201508744](https://github.com/samuelrcosta)
