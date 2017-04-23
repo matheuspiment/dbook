@@ -23,7 +23,7 @@ Período de Execução Real:
 
 | Riscos Concretizados | Impacto | Previsto no PGP | Observações |
 |:--------------------:|:-------:|:---------------:|:-----------:|
-| Adicionar os riscos que se concretização na execução do projeto. Caso não tenha ocorrido riscos adicionar “Não se aplica” | A/M/B Alto/Médio/Baixo | Sim ou Não | Adicione comentarios quando necessario. Caso não possua comentarios a serem expostos adicione “Nada a declarar” |
+| Adicionar os riscos que se concretizarão na execução do projeto. Caso não tenha ocorrido riscos adicionar “Não se aplica” | A/M/B Alto/Médio/Baixo | Sim ou Não | Adicione comentários quando necessário. Caso não possua comentários a serem expostos adicione “Nada a declarar” |
 
 ## 4. Recursos Humanos
 
@@ -40,7 +40,7 @@ Período de Execução Real:
 ## 6. Considerações
 
 <pre>
-Observações ou considerações gerais e que podem não se adequar a nehuma seção anterior.
+Observações ou considerações gerais e que podem não se adequar a nenhuma seção anterior.
 </pre>
 
 ## 7. Aprovação

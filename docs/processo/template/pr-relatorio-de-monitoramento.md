@@ -9,10 +9,10 @@ Patrocinador: Nome do Patrocinador
 
 | ID da Atividade | Data de Início | Data de Término | Observações | 
 |:---------------:|:--------------:|:---------------:|:-----------:|
-| ID da atividade á ser monitoradas | Data de início prevista para a atividade | Data de término prevista para a tividade | Observações sobre realocação de tarefas, caso em atraso, ou outras observações adicionais |
+| ID da atividade a ser monitoradas | Data de início prevista para a atividade | Data de término prevista para a atividade | Observações sobre realocação de tarefas, caso em atraso, ou outras observações adicionais |
 
 ## 2. Acompanhamento de Riscos
 
 | Riscos Concretizados | Impacto | Previsão | Observações |
 |:--------------------:|:-------:|:--------:|:-----------:|
-| Adicionar os riscos que se concretização na execução do projeto. | A/M/B Alto/Médio/ Baixo | Se consta ou não na seção de riscos do Plano Geral do Projeto | Adicione observações quando necessario. 
+| Adicionar os riscos que se concretizarão na execução do projeto. | A/M/B Alto/Médio/ Baixo | Se consta ou não na seção de riscos do Plano Geral do Projeto | Adicione observações quando necessario. 

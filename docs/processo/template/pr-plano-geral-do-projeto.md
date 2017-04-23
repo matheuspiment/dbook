@@ -11,7 +11,7 @@ O objetivo é proporcionar um melhoramento nas organizações das tarefas dos de
 
 Definir uma visão geral que será apresentado no plano do projeto.  
 Exemplo:  
-O projeto Gestão Academica será desenvolvido por uma equipe com cinco integrantes.  
+O projeto Gestão Acadêmica será desenvolvido por uma equipe com cinco integrantes.  
 Será esclarecido as seguintes etapas abaixo no decorrer do plano de projeto de software.  
 - Escopo do Projeto 
 - Deliverables Macros
@@ -59,7 +59,7 @@ Modelo:
 
 Exemplo:  
 <pre>
-<strong>Organização:</strong> Rede Smart de Supermecados
+<strong>Organização:</strong> Rede Smart de Supermercados
 <strong>Departamento/Setor:</strong> Departamento de vendas
 <strong>Impacto:</strong> Paralisação para coleta de requisitos.
 </pre>
@@ -103,7 +103,7 @@ Exemplo:
 | ID do Recurso | Recurso |
 |:-------------:|:-------:|
 | R1 | Gerente de Projeto |
-| R2 | Analise de Requisitos |
+| R2 | Análise de Requisitos |
 | R3 | Arquiteto de Software |
 | R4 | Designer |
 | R5 | Desenvolvedor |

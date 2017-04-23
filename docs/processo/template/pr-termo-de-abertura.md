@@ -62,7 +62,7 @@ Exemplo:
 
 ## Aprovação do patrocinador
 
-Seção destinada a indicar os patrocinadores do projeto, bem como a provação dos mesmos.
+Seção destinada a indicar os patrocinadores do projeto, bem como a aprovação dos mesmos.
 
 Adriana Silveira de Souza  
 (Professora da disciplina de Manutenção de Software - INF)  

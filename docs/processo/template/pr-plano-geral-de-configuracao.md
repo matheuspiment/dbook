@@ -2,19 +2,19 @@
 
 ## 1. Itens de Configuração
 
-A nomeclatura de cada artefato consiste em um o prefixo (PR), que é o identificador do projeto, seguido da sigla do artefato e da sua respectiva versão. Veja o exemplo abaixo:
+A nomenclatura de cada artefato consiste em um o prefixo (PR), que é o identificador do projeto, seguido da sigla do artefato e da sua respectiva versão. Veja o exemplo abaixo:
 
 DB-TAP-1.0 - Esse artefato é o termo de abertura do projeto, dbook, e sua versão atual é a 1.0.
 
 Modelo:
 
-| Item de Configuração | Nomeclatura |
+| Item de Configuração | Nomenclatura |
 |:--------------------:|:-----------:|
 | Documento ou artefato|    Sigla    |
 
 Exemplo:
 
-| Item de Configuração | Nomeclatura |
+| Item de Configuração | Nomenclatura |
 |:--------------------:|:-----------:|
 | Plano Geral do Projeto |   PR-PGP  |
 
