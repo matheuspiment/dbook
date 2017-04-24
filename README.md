@@ -26,7 +26,7 @@ Com a finalidade de se praticar Engenharia de Software a documentação do proje
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md)
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGC-1.1.md)
 * [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.1.md)
-* [Especificação dos Requisidtos](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-ERP-1.0.pdf)
+* [Especificação dos Requisitos](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-ERP-1.0.pdf)
 * [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-EDP-1.0.md) (preliminar)
 * [Relatório de Monitoramento-1](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-1.1.md)
 * [Relatório de Monitoramento-2](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-2-1.1.md)
