@@ -1,4 +1,4 @@
-# Bem-vindo!
+# dbook
 
 [![license](https://img.shields.io/github/license/matheuspiment/dbook.svg)](https://github.com/matheuspiment/dbook/blob/master/LICENSE)
 
@@ -26,11 +26,12 @@ Com a finalidade de se praticar Engenharia de Software a documentação do proje
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md)
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGC-1.1.md)
 * [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.1.md)
-* Especificação dos Requisidtos (em construção)
+* [Especificação dos Requisitos](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-ERP-1.0.pdf)
 * [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-EDP-1.0.md) (preliminar)
 * [Relatório de Monitoramento-1](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-1.1.md)
 * [Relatório de Monitoramento-2](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-2-1.1.md)
 * [Relatório de Monitoramento-3](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-3-1.1.md)
+* [Relatório de Monitoramento-4](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-4-1.0.md)
 
 ## Integrantes
 
@@ -40,7 +41,3 @@ Com a finalidade de se praticar Engenharia de Software a documentação do proje
 - João Lucas Pacheco Araujo Bastos - 201503345
 - [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
 - [Samuel Rocha Costa - 201508744](https://github.com/samuelrcosta)
-
-## Onde obter detalhes?
-
-Consulte a documentação [AQUI](https://github.com/matheuspiment/dbook/tree/master/docs) ou entre em contato pelo email **matheuspiment@hotmail.com**.
