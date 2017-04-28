@@ -47,9 +47,9 @@ Observações ou considerações gerais e que podem não se adequar a nenhuma se
 
 <dl>
   <dt>_________________________________________________________</dt>
-  <dt>Patrocinador do Projeto - Adriana Silveira de Souza</dt>
+  <dt>Patrocinador do Projeto - Nome do patrocinador</dt>
 
   <dt>__________________________________________________________</dt>
-  <dt>Gerente do Projeto - Matheus Ribeiro Pimenta Nunes</dt>
+  <dt>Gerente do Projeto - Nome do gerente de projeto</dt>
 </dl>
 <dl>
