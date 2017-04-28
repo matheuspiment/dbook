@@ -35,7 +35,7 @@ Com a finalidade de se praticar Engenharia de Software a documentação do proje
 
 ## Integrantes
 
-- Alexandre de Matos Xavier- 201202248
+- [Alexandre de Matos Xavier - 201202248] (https://github.com/mxalexandre) 
 - [Beatriz Nogueira Carvalho da Silveira - 201508732](https://github.com/BeatrizN) 
 - [Cauã Martins Pessoa - 201400618](https://github.com/Caua539)
 - João Lucas Pacheco Araujo Bastos - 201503345
