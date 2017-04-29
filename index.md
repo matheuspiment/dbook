@@ -26,18 +26,19 @@ Com a finalidade de se praticar Engenharia de Software a documentação do proje
 * [Termo de Abertura](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-TAP-1.1.md)
 * [Plano Geral de Configuração](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGC-1.1.md)
 * [Plano Geral do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-PGP-1.1.md)
-* [Especificação dos Requisitos](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-ERP-1.0.pdf)
+* [Especificação dos Requisitos](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-ERP-1.1.md)
 * [Especificação do Design](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-EDP-1.0.md) (preliminar)
 * [Relatório de Monitoramento-1](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-1-1.1.md)
 * [Relatório de Monitoramento-2](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-2-1.1.md)
 * [Relatório de Monitoramento-3](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-3-1.1.md)
 * [Relatório de Monitoramento-4](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RDM-4-1.0.md)
+* [Relatório de Conclusão do Projeto](https://github.com/matheuspiment/dbook/blob/master/docs/projeto/DB2017-1-RCP-1.0.md)
 
 ## Integrantes
 
-- Alexandre de Matos Xavier- 201202248
+- [Alexandre de Matos Xavier - 201202248](https://github.com/mxalexandre) 
 - [Beatriz Nogueira Carvalho da Silveira - 201508732](https://github.com/BeatrizN) 
 - [Cauã Martins Pessoa - 201400618](https://github.com/Caua539)
 - João Lucas Pacheco Araujo Bastos - 201503345
 - [Matheus Ribeiro Pimenta Nunes - 201503353](https://github.com/matheuspiment)
-- [Samuel Rocha Costa - 201508744](https://github.com/samuelrcosta)
+- [Samuel Rocha Costa - 201508744](https://github.com/samuelrcosta))
